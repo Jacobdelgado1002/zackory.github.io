@@ -8,52 +8,11 @@
 layout: page
 ---
 
-![Zackory Erickskon](assets/images/Zackory_pr2.jpg)
+![Jacob M. Delgado-López]()
 
-I am a tenure-track Assistant Professor in [The Robotics Institute](https://www.ri.cmu.edu) at [Carnegie Mellon University](https://www.cmu.edu), where I lead the [Robotic Caregiving and Human Interaction (RCHI) Lab](https://rchi-lab.github.io).
-My research explores intelligent physical human-robot interaction, with applications in healthcare robotics.
+Hello! I am a rising junior at the University of Puerto Rico majoring in Computer Science and Engineering. My research interests include Artificial Intelligence and Machine Learning geared towards assistive technology. My further interests after completing my bachelor's is to enter graduate school with a further interest in academia. Currently, I am honored to work under the supervision of Yufei Wang at the Robotic Caregiving and Human Interaction (RCHI) lab, led by Dr. Zackory Erickson, at Carnegie Mellon University.
 
-Previously, I received my PhD in Robotics at Georgia Tech advised by [Charlie Kemp](https://charliekemp.com).
 
-Note for Fall 2022 applicants: I will likely be looking for 1 to 2 graduate students.
 
----
 
-### News
 
-  * Co-chair at ICRA 2022 session on Physical HRI
-  * Area Chair for CoRL 2022
-  * Associate Editor for RO-MAN 2022 
-  * Invited talk at IROS 2021 workshop on [Proximity Perception in Robotics](https://www.proxelsandtaxels.org/en/)
-  * Organizing an ICRA 2021 workshop [Learning for Caregiving Robots](https://sites.gatech.edu/learning-caregiving-icra2021/)
-  * Invited talk at ICRA 2021 workshop on [Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2021/)
-
----
-
-### Contact
-**Calendar**: [Free/busy Calendar](https://calendar.google.com/calendar/embed?src=zerickso%40andrew.cmu.edu&ctz=America%2FNew_York&mode=WEEK)  
-Please check my calendar to see if I am available prior to suggesting a meeting time.
-
-**Office**: [Newell-Simon Hall](https://map.concept3d.com/?id=192#!m/15786) 4627
-
-**Address**  
-Carnegie Mellon University  
-Robotics Institute  
-5000 Forbes Ave  
-Pittsburgh, PA 15213 USA
-
----
-
-### Teaching
-
-Fall 2022: 16-741: Mechanics of Manipulation  
-Spring 2022: [16-887: Robotic Caregivers and Intelligent Physical Collaboration](https://zackory.com/rc2022/)  
-Spring 2021: [BMED 4833/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2021-spring/)  
-Spring 2020: [BMED 4803/8813 - Robotic Caregivers](https://sites.gatech.edu/robotic-caregivers/2020-spring/)  
-
----
-
-### Extra links
-You can find a recording of my Robotics PhD Defense at Georgia Tech here: [https://youtu.be/3DYv8SlaP2w](https://youtu.be/3DYv8SlaP2w)
-
-In 2016, I participated in the 4th Heidelberg Laureate Forum. Here are [some photos from the 4th HLF](https://zackory.com/hlf4/).
