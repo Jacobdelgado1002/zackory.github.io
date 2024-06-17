@@ -10,9 +10,14 @@ layout: page
 
 ![Jacob M. Delgado-López](assets/images/Jacob_profile_pic.jpg)
 
-Hello! I am a rising junior at the University of Puerto Rico majoring in Computer Science and Engineering. My research interests include Artificial Intelligence and Machine Learning geared towards assistive technology. My further interests after completing my bachelor's is to enter graduate school with a further interest in academia. Currently, I am honored to work under the supervision of Yufei Wang at the Robotic Caregiving and Human Interaction (RCHI) lab, led by Dr. Zackory Erickson, at Carnegie Mellon University.
+Hello! I am currently a senior at the University of Puerto Rico Mayagüez, pursuing my Bachelor in Computer Science and Engineering. I am particularly interested in research involving the deployment of AI systems in interdisciplinary applications like healthcare and assistive technology. Specifically, I am intrigued by the prospects of deploying AI technologies in resource-constrained environments, such as the rural and underprivileged areas of my home country of Puerto Rico. 
 
+My future career goal is to pursue a PhD and later post-doctoral studies, allowing me to explore the multidisciplinary applications of AI in greater depth while developing novel systems that address societal challenges. Furthermore, I aim to enter academia at my local institution to mentor and inspire future generations of Puerto Rican students, nurture their curiosity, and guide them toward academic success. 
 
+---
 
+### Contact
 
+**Email**: [jacobdelgado1002@gmail.com](mailto:jacobdelgado1002@gmail.com)
 
+---
