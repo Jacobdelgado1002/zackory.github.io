@@ -9,7 +9,7 @@ layout: page
 ---
 
 <div style="text-align: center;">
-    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado" width="250" height="250">
+    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="500" height="500">
 </div>
 
 
