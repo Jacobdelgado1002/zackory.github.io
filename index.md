@@ -8,7 +8,7 @@
 layout: page
 ---
 
-![Jacob Delgado](assets/images/Jacob_profile_pic.jpg){ width=300px }
+<img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado" width="100" height="100">
 
 Hello! I am currently a senior at the University of Puerto Rico Mayagüez, pursuing my Bachelor in Computer Science and Engineering. I am particularly interested in research involving the deployment of AI systems in interdisciplinary applications like healthcare and assistive technology. Specifically, I am intrigued by the prospects of deploying AI technologies in resource-constrained environments, such as the rural and underprivileged areas of my home country of Puerto Rico. 
 
