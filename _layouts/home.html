@@ -2,12 +2,50 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<style>
+  /* Container for the profile section */
+  .profile-container {
+    display: flex;
+    align-items: flex-start;
+    gap: 2rem;
+    margin: 2rem 0;
+  }
 
-  {{ content }}
+  /* Circular image styling */
+  .profile-image {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 3px solid #f0f0f0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  /* Content container styling */
+  .content-container {
+    flex: 1;
+  }
+
+  /* Responsive layout */
+  @media (max-width: 768px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .profile-image {
+      margin-bottom: 1rem;
+    }
+  }
+</style>
+
+<div class="profile-container">
+  <img src="/assets/images/profile.jpg" alt="Profile Photo" class="profile-image">
+  <div class="content-container">
+    {{ content }}
+  </div>
+</div>
 
   <!--
   {% if site.paginate %}
