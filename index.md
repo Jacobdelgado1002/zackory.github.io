@@ -5,12 +5,12 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: page
+layout: home
 ---
-
-<div style="text-align: left;">
+<!-- 
+<div style="text-align: center;">
     <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="500" height="500">
-</div>
+</div> -->
 
 ## About Me
 
