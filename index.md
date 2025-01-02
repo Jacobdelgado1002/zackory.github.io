@@ -11,8 +11,8 @@ layout: page
 <div style="text-align: center;">
     <img src="assets/images/profile.jpg" 
          alt="Jacob Delgado Home" 
-         width="500" 
-         height="500"
+         width="250" 
+         height="250"
          style="border-radius: 50%; /* Makes the image circular */
                 object-fit: cover; /* Ensures the image fills the circle properly */
                 border: 3px solid #f0f0f0; /* Optional: adds a light border */
