@@ -8,20 +8,20 @@
 layout: page
 ---
 
-<!-- <div style="text-align: center;">
-    <img src="assets/images/profile.jpg" 
+<div style="text-align: center;">
+    <img src="assets/images/Jacob_profile_pic.jpg" 
          alt="Jacob Delgado Home" 
-         width="250" 
-         height="250"
+         width="300" 
+         height="300"
          style="border-radius: 50%; /* Makes the image circular */
                 object-fit: cover; /* Ensures the image fills the circle properly */
                 border: 3px solid #f0f0f0; /* Optional: adds a light border */
                 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds subtle shadow */">
-</div> -->
-
-<div style="text-align: center;">
-    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="250" height="250">
 </div>
+
+<!-- <div style="text-align: center;">
+    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="250" height="250">
+</div> -->
 
 ## About Me
 
