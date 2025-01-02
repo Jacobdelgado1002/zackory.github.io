@@ -8,7 +8,7 @@
 layout: page
 ---
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <img src="assets/images/profile.jpg" 
          alt="Jacob Delgado Home" 
          width="250" 
@@ -17,6 +17,10 @@ layout: page
                 object-fit: cover; /* Ensures the image fills the circle properly */
                 border: 3px solid #f0f0f0; /* Optional: adds a light border */
                 box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds subtle shadow */">
+</div> -->
+
+<div style="text-align: center;">
+    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="250" height="250">
 </div>
 
 ## About Me
