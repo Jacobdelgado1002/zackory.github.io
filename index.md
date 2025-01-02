@@ -20,7 +20,7 @@ layout: page
 </style>
 
 <div style="text-align: center;">
-    <img src="assets/images/Jacob_profile_pic.jpg" 
+    <img src="assets/images/profile.jpg" 
          alt="Jacob Delgado Home" 
          class="profile-image">
 </div>
