@@ -5,12 +5,25 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
 ---
-<!-- 
+
+<style>
+.profile-image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #f0f0f0;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+</style>
+
 <div style="text-align: center;">
-    <img src="assets/images/Jacob_profile_pic.jpg" alt="Jacob Delgado Home" width="500" height="500">
-</div> -->
+    <img src="assets/images/Jacob_profile_pic.jpg" 
+         alt="Jacob Delgado Home" 
+         class="profile-image">
+</div>
 
 ## About Me
 
