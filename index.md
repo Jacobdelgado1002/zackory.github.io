@@ -8,21 +8,15 @@
 layout: page
 ---
 
-<style>
-.profile-image {
-    width: 500px;
-    height: 500px;
-    border-radius: 50%;
-    object-fit: cover;
-    border: 3px solid #f0f0f0;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
-</style>
-
 <div style="text-align: center;">
-    <img src="assets/images/profile.jpg" 
+    <img src="assets/images/Jacob_profile_pic.jpg" 
          alt="Jacob Delgado Home" 
-         class="profile-image">
+         width="500" 
+         height="500"
+         style="border-radius: 50%; /* Makes the image circular */
+                object-fit: cover; /* Ensures the image fills the circle properly */
+                border: 3px solid #f0f0f0; /* Optional: adds a light border */
+                box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds subtle shadow */">
 </div>
 
 ## About Me
